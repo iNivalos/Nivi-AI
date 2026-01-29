@@ -53,9 +53,9 @@ async function hsSafeAI(run, fallback){
   }
 }
 const MUSIC_TRACKS = [
-  { id:"m1", src:"assets/audio/bgm/m1.mp3", label:"Música 1" },
-  { id:"m2", src:"assets/audio/bgm/m2.mp3", label:"Música 2" },
-  { id:"m3", src:"assets/audio/bgm/m3.mp3", label:"Música 3" },
+  { id:"m1", src:"assets/audio/bgm/m1.mp3", label:"M1" },
+  { id:"m2", src:"assets/audio/bgm/m2.mp3", label:"M2" },
+  { id:"m3", src:"assets/audio/bgm/m3.mp3", label:"M3" },
 ];
 
 const SECRET_CODE = "701013";
