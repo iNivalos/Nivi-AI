@@ -247,7 +247,7 @@ export function createMusicController(buttonEl, tracks){
 
   const audio = new Audio(tracks[musicIndex].src);
   audio.loop = true;
-  audio.volume = 0.35;
+  audio.volume = 0.28;
 
   function setBtnState(){
     if(!buttonEl) return;
